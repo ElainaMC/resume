@@ -3,7 +3,8 @@
 cowan.elaina@gmail.com <br>
 (619) 929-7965 <br>
 Spring Valley, CA <br>
-[Github] (github.com/ElainaMC) | [LinkedIn] (linkedin.com/in/cowanelaina/)
+<www.github.com/ElainaMC> <br>
+<www.linkedin.com/in/cowanelaina/> <br>
 
 ## Summary & Skills:
 Non-traditional background with excellent verbal & written communication seeks a UX Design role within a demanding, feedback-driven environment designed to ensure completion of project milestones and overall startup success. Proven history of accomplishments, including eight years of decorated military service. 
