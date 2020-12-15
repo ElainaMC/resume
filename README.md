@@ -5,11 +5,12 @@ cowan.elaina@gmail.com <br>
 Spring Valley, CA <br>
 <www.github.com/ElainaMC> <br>
 <www.linkedin.com/in/cowanelaina/> <br>
+<uxfol.io/elainamichelle> <br>
 
 ## Summary & Skills:
 Non-traditional background with excellent verbal & written communication seeks a UX Design role within a demanding, feedback-driven environment designed to ensure completion of project milestones and overall startup success. Proven history of accomplishments, including eight years of decorated military service. 
 
-Trello, Agile, GitHub, HTML5, CSS3, Figma
+Trello, Agile, GitHub, HTML5, CSS3, Figma, Balsamiq
 
 ## Professional Experience:
 **TDO Software** <br>
